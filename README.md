@@ -1,4 +1,4 @@
-Personal Library Manager Lab
+*Personal Library Manager Lab*
 Objective:
 
 Develop a straightforward personal library management application that operates entirely within the terminal. This application will enable users to catalog their books and write brief reviews directly from the command line. Data can be managed using a .csv file for persistent storage or a local object/dictionary for in-memory management. Through this project, you’ll practice using Python, handling user input, and managing data.
